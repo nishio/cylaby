@@ -56,3 +56,8 @@ http://bit.ly/cylaby_f
 　　3.3.2.視点を動かすことの効果
 　　3.3.3.場所に紐づける記憶術
 ```
+
+## リンク
+
+- ニュースリリース http://group.cybozu.jp/news/15063001.html
+- 募集要項 http://labs.cybozu.co.jp/recruit/youth.html
